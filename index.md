@@ -18,4 +18,4 @@ Storyscape
 
 This is my Storyscape.
 
-<script src="/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/jasminetolentino/nothing-ha-copy-copy-copy-copy-copy-copy-copy-copy" ></script>
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/jasminetolentino/nothing-ha-copy-copy-copy-copy-copy-copy-copy-copy" ></script>
